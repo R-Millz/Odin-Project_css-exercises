@@ -1,0 +1,22 @@
+.change-p {
+    background-color: rgb(255, 170, 251);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one-div {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.change-font-size {
+    font-size: 24px;
+}
+
+/*since `number 3` and `4` have the same font size,
+the same class `change-font-size` was used above for both 
+to avoid duplicate coding*/
+
+#two-div {
+    background-color: hsl(130, 100%, 86%);
+    font-weight: bold;
+}
